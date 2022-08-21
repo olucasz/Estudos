@@ -74,6 +74,7 @@ body *{
     transition: .4s;
 }
 
+
 .text-field > input {
     width: 100%;
     border: none;
